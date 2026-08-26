@@ -1,8 +1,8 @@
-Nintendo Has **ONE** Rule for New SSB Characters
+Nintendo Has *ONE* Rule for New *SSB* Characters
 ============================================
 *A character must originate from a video game to be added into Super Smash Bros.*
 ---------------------------------------------------------------------------------
-- As much as people want it, Goku will not make it to a Super Smash Bros game because of this rule.
+- As much as people want it, Goku will not make it to a *Super Smash Bros* game because of this rule.
 - It is possible for Nintendo to change this rule, but other than the demand for certain characters, they have no reason to.
 - I, however, have a pitch to add a different character that would meet this singular rule.
 
@@ -22,7 +22,7 @@ My Reasons for Dante
 - Hideki Kamiya also created the character Bayonetta for Capcom along with her game, so it would be fitting since she is in SSB Ultimate.
 - The *DMC* games are filled with different combat styles and combos, so there's a variety of things to choose from with his moveset.
 
-Making Dante Work for SSB
+Making Dante Work for *SSB*
 -------------------------
 Two boxes must be checked for Dante to work here:
 - [x] Does he originate from a video game?
@@ -30,4 +30,6 @@ Two boxes must be checked for Dante to work here:
 
 We've already checked the first, so all we need to do is prove the second. And by we, I mean me. You just . . . read my overly-passionate reasoning, I guess.
 
-### Different Moves in SSB
+### Different Moves in *SSB*
+In *SSB*, each fighter has the same amount of attacks with their buttons. Some have unique combos or abilities (ex. Some can counter). Here's a list of them below:
+#### A Moves
