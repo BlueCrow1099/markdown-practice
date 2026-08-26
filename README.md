@@ -26,7 +26,7 @@ Making Dante Work for *SSB*
 -------------------------
 Two boxes must be checked for Dante to work here:
 - [x] Does he originate from a video game?
-- [ ] Can we make a move set for him that works for SSB?
+- [ ] Can we make a move set for him that works for *SSB*?
 
 We've already checked the first, so all we need to do is prove the second. And by we, I mean me. You just . . . read my overly-passionate reasoning, I guess.
 
