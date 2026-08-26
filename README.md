@@ -60,6 +60,6 @@ When adding a character into *SSB*, Nintendo also has to consider whether they c
 | - | ------ | ------ | ---- | ------ | ----------- |
 | Dante throws Dr. Faust, a hat that he gains and uses to attack enemies *DMC5*. | Dante throws Dr. Faust and it stays in the air attacking for a few seconds (I'm thinking a still spin). | Dante shoots enemies using his pistols *Ebony* and *Ivory*. | Dante spins uses his [Highside move with Cavalier] to do a large-range attack that scoops the enemy into the air. | Similar to how Joker has a meter that, once filled, allows him to use Down B to temporarily summon Arsene, Dante will have a meter that, once filled, allows him to use Down B to temporarily turn into his Devil Trigger form. | Dante temporarily turns into his Sin Devil Trigger form, which will boost the amount of damage and range that his attacks normally have. |
 
-! (2026_08_26_0vm_Kleki.png)
+! (main/files/2026_08_26_0vm_Kleki.png)
 
 [Highside move with Cavalier]: https://www.youtube.com/watch?v=SGnhOV1Hp7g
