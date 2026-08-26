@@ -57,4 +57,4 @@ When adding a character into *SSB*, Nintendo also has to consider whether they c
 
 | B | Hold B | Side B | Up B | Down B | Final Smash |
 | - | ------ | ------ | ---- | ------ | ----------- |
-| Dante throws Dr. Faust, a hat that he gains and uses to attack enemies *DMC5* | Dante throws Dr. Faust and it stays in the air attacking for a few seconds (I'm thinking a still spin) | Dante shoots enemies using *Ebony* and *Ivory* |
+| Dante throws Dr. Faust, a hat that he gains and uses to attack enemies *DMC5*. | Dante throws Dr. Faust and it stays in the air attacking for a few seconds (I'm thinking a still spin). | Dante shoots enemies using *Ebony* and *Ivory*. | Dante launches himnself into the air. He's able to stay up there for a few seconds in order to perform a series of arial combos. | Similar to how Joker has a meter that, once filled, allows him to use Down B to temporarily summon Arsene, Dante will have a meter that, once filled, allows him to use Down B to temporarily turn into his Devil Trigger form. | Dante temporarily turns into his Sin Devil Trigger form, which will boost the amount of damage and range that his attacks normally have. |
