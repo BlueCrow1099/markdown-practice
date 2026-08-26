@@ -1,5 +1,5 @@
 Nintendo Has *ONE* Rule for New *SSB* Characters
-============================================
+================================================
 *A character must originate from a video game to be added into Super Smash Bros.*
 ---------------------------------------------------------------------------------
 - As much as people want it, Goku will not make it to a *Super Smash Bros* game because of this rule.
@@ -49,6 +49,12 @@ These are attacks that are more unique to the characters. There's more variety b
 
 ### Creating Dante's Move Set
 When adding a character into *SSB*, Nintendo also has to consider whether they can feasibly give them a move set that works for *SSB*, so in the tables below I've said what I think Dante's move set could be. If he seems a bit too overpowered, then just remember that I do not work for Nintendo, A, and B, he could be added in the next *SSB* game either as unlockable through the story campaign or as DLC, and DLC characters tend to be overpowered anyways.
+
+```javascript
+function disclaimer() {
+   console.log("No, I didn't come up with damage percentages for the moves, I'm not THAT locked in.");
+}
+```
 
 #### Smash Attacks
 | Standard Attack | Side Smash | Up Smash | Down Smash |
