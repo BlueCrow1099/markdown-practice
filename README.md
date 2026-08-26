@@ -39,7 +39,11 @@ These are the standard attack moves without much variety between characters, per
 
 #### Special Moves
 These are attacks that are more unique to the characters. There's more variety between them, so I'll just give an overview of what each one usually is. These are all done by pressing the B button.
-1. B:
-2. Side B:
-3. Up B:
-4. Down B:
+1. B: There isn't really any way to generalize the B button other than that holding it usually makes the attack stronger.
+2. Side B: This is a bit more easy to generalize, as it's usually some form of projectile, rush, or ranged attack.
+3. Up B: Also a bit more easily generalize, the Up B is usually some sort of rush into the air, or it's grabbing something in the air. Either way, as long as it has a big enough range, it's useful for recovery.
+4. Down B: Sometimes it's a down rush when you're in the air, sometimes it's a counter, sometimes it's to switch move sets (ex. Joker is able to summon Arsene; Pyra can switch to Mythra)
+5. Final Smash: After you destroy a Smash Ball, you can press B to use your Final Smash. There is no way to generalize this. Each one is unique, but they usually do major damage or are very useful in some way.
+
+### Creating Dante's Move Set
+When adding a character into *SSB*, Nintendo also has to consider whether they can feasibly give them a move set that works for *SSB*, so in the tables below I've said what I think Dante's move set could be. If he seems a bit too overpowered, then just remember that I do not work for Nintendo, A, and B, he could be added in the next *SSB* game either as unlockable through the story campaign or as DLC, and DLC characters tend to be overpowered anyways.
